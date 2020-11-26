@@ -1,2 +1,2 @@
 # demo-repo
-# Love git  
+# Love Git  
